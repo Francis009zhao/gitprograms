@@ -6,3 +6,4 @@ modify git
 hello git
 
 hi git
+Git tracks changes.
